@@ -1,11 +1,11 @@
 * {
-    padding: 0;
+    padding: 0px;
     margin: 0px;
     background-color: #fff6a7;
   }
   
   ul {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Akaya Telivigala', cursive;
     color:#74050ab9;
   }
   
@@ -41,7 +41,6 @@
   
   nav > ul > li {
     font-size: 1.8em;
-    font-family: 'Akaya Telivigala', cursive;
   }
   
   nav > ul > ol {
@@ -55,7 +54,7 @@
   }
   
   nav > ul > ol > li > a {
-    font-size: 1em;
+    font-size: 1.3em;
   }
     
   nav > ul > ol > li > figure > img {
